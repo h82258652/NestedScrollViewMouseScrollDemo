@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NestedScrollViewDemo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NestedScrollViewDemo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
